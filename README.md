@@ -28,8 +28,8 @@ GPU is NOT required.
 ```
 pip install request
 ```
-(4). Download model and Gene Ontology file
-There is a python script DownloadFiles.py in the software to help you download all needed files, please run it for the first time. If it didn't work, you could manually downloaded the files as follows:
+(4). Download model and Gene Ontology file<br>
+There is a python script DownloadFiles.py in the software to help you download all needed files, please run it for the first time. If it didn't work, you could manually downloaded the files as follows:<br>
 We need gene ontology database gene_ontology_edit.obo.2016-06-01 in database directory, which could be downloaded from https://cs.plu.edu/~caora/materials/gene_ontology_edit.obo.2016-06-01, and also the folder model1 in FinalModels which contains models could be downloaded from https://cs.plu.edu/~caora/materials/ProLanGO2_model1.zip.  
 
 
